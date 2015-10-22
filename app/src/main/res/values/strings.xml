@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaiduMapTest</string>
+    <string name="setLoc">添加位置</string>
+    <string name="clearLoc">清楚标记</string>
+    <string name="search">搜索</string>
+    <string name="clearSearch">清楚搜索</string>
+</resources>
